@@ -1,0 +1,9 @@
+INFO ===> Test test_add_camera_to_cart started at 2024-04-12 02:14:50.457668
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="2adbf07e-054f-4bf2-871b-946fa722e4fe")> started
+INFO Get featured product name
+INFO Click on featured product
+INFO Chose product color
+INFO Click 'ADD TO CART'
+INFO Open CartPage
+INFO Get product name
+INFO ===> Test test_add_camera_to_cart finished at 2024-04-12 02:15:13.315893

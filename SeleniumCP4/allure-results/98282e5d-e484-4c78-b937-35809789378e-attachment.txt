@@ -1,0 +1,14 @@
+[32mINFO    [0m test_add_product_to_wishlist:conftest.py:52 ===> Test test_add_product_to_wishlist started at 2024-04-12 02:14:15.661438
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 124.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 124.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\vikni\.wdm\drivers\geckodriver\win64\v0.34.0\geckodriver.exe] found in cache
+[32mINFO    [0m test_add_product_to_wishlist:conftest.py:82 Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="865a8870-377b-4507-be98-8e13050b876a")> started
+[32mINFO    [0m test_add_product_to_wishlist:MainPage.py:87 Open LoginPage
+[32mINFO    [0m test_add_product_to_wishlist:LoginPage.py:20 Click 'CONTINUE'
+[32mINFO    [0m test_add_product_to_wishlist:LoginPage.py:24 Go to MainPage
+[32mINFO    [0m test_add_product_to_wishlist:MainPage.py:40 Get featured product name
+[32mINFO    [0m test_add_product_to_wishlist:MainPage.py:100 Add featured product to wishlist
+[32mINFO    [0m test_add_product_to_wishlist:MainPage.py:94 Open WishlistPage
+[32mINFO    [0m test_add_product_to_wishlist:WishlistPage.py:14 Get products in Wishlist
+[32mINFO    [0m test_add_product_to_wishlist:conftest.py:89 ===> Test test_add_product_to_wishlist finished at 2024-04-12 02:14:46.381631

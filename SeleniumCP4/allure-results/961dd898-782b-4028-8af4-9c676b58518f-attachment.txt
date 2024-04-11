@@ -1,0 +1,14 @@
+[32mINFO    [0m test_change_currency:conftest.py:52 ===> Test test_change_currency started at 2024-04-12 02:13:04.253239
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 124.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 124.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\vikni\.wdm\drivers\geckodriver\win64\v0.34.0\geckodriver.exe] found in cache
+[32mINFO    [0m test_change_currency:conftest.py:82 Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="05bd5ad1-d936-4562-81cf-21cc91e98759")> started
+[32mINFO    [0m test_change_currency:MainPage.py:21 Get current currency
+[32mINFO    [0m test_change_currency:MainPage.py:14 Open currency list
+[32mINFO    [0m test_change_currency:MainPage.py:16 Choose new currency
+[32mINFO    [0m test_change_currency:MainPage.py:21 Get current currency
+[32mINFO    [0m test_change_currency:MainPage.py:14 Open currency list
+[32mINFO    [0m test_change_currency:MainPage.py:16 Choose new currency
+[32mINFO    [0m test_change_currency:MainPage.py:21 Get current currency
+[32mINFO    [0m test_change_currency:conftest.py:89 ===> Test test_change_currency finished at 2024-04-12 02:13:17.470903

@@ -1,0 +1,10 @@
+INFO ===> Test test_add_product_to_wishlist started at 2024-04-12 02:14:15.661438
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="865a8870-377b-4507-be98-8e13050b876a")> started
+INFO Open LoginPage
+INFO Click 'CONTINUE'
+INFO Go to MainPage
+INFO Get featured product name
+INFO Add featured product to wishlist
+INFO Open WishlistPage
+INFO Get products in Wishlist
+INFO ===> Test test_add_product_to_wishlist finished at 2024-04-12 02:14:46.381631

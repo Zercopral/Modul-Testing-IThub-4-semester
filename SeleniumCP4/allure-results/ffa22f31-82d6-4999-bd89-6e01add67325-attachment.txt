@@ -1,0 +1,9 @@
+[32mINFO    [0m test_search:conftest.py:52 ===> Test test_search started at 2024-04-12 02:13:57.496759
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 124.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 124.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\vikni\.wdm\drivers\geckodriver\win64\v0.34.0\geckodriver.exe] found in cache
+[32mINFO    [0m test_search:conftest.py:82 Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="8ff1e28e-e3b2-4c2f-9f05-4fbf4415f809")> started
+[32mINFO    [0m test_search:MainPage.py:77 Input text on 'SEARCH_FIELD'
+[32mINFO    [0m test_search:MainPage.py:79 Click 'SEARCH'
+[32mINFO    [0m test_search:conftest.py:89 ===> Test test_search finished at 2024-04-12 02:14:11.592469

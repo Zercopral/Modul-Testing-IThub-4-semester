@@ -1,0 +1,6 @@
+INFO ===> Test test_PC_category_empty started at 2024-04-12 02:13:21.544476
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="abc8ddd6-f246-4122-bd61-8f44f9b76928")> started
+INFO Open menu
+INFO Go to products category
+INFO Get products in category
+INFO ===> Test test_PC_category_empty finished at 2024-04-12 02:13:34.091356

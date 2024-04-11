@@ -1,0 +1,11 @@
+INFO ===> Test test_write_review started at 2024-04-12 02:16:19.627172
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="3a6cb6a4-262c-401c-9c0a-1523ae038650")> started
+INFO Open LoginPage
+INFO Click 'CONTINUE'
+INFO Go to MainPage
+INFO Click on featured product
+INFO Click 'Write a review'
+INFO Input review text
+INFO Choose product rating
+INFO Click 'Send Review'
+INFO ===> Test test_write_review finished at 2024-04-12 02:16:42.986206

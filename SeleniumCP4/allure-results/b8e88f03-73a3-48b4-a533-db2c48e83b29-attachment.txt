@@ -1,0 +1,15 @@
+[32mINFO    [0m test_write_review:conftest.py:52 ===> Test test_write_review started at 2024-04-12 02:16:19.627172
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 124.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 124.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\vikni\.wdm\drivers\geckodriver\win64\v0.34.0\geckodriver.exe] found in cache
+[32mINFO    [0m test_write_review:conftest.py:82 Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="3a6cb6a4-262c-401c-9c0a-1523ae038650")> started
+[32mINFO    [0m test_write_review:MainPage.py:87 Open LoginPage
+[32mINFO    [0m test_write_review:LoginPage.py:20 Click 'CONTINUE'
+[32mINFO    [0m test_write_review:LoginPage.py:24 Go to MainPage
+[32mINFO    [0m test_write_review:MainPage.py:35 Click on featured product
+[32mINFO    [0m test_write_review:ProductPage.py:71 Click 'Write a review'
+[32mINFO    [0m test_write_review:ProductPage.py:74 Input review text
+[32mINFO    [0m test_write_review:ProductPage.py:80 Choose product rating
+[32mINFO    [0m test_write_review:ProductPage.py:83 Click 'Send Review'
+[32mINFO    [0m test_write_review:conftest.py:89 ===> Test test_write_review finished at 2024-04-12 02:16:42.986206

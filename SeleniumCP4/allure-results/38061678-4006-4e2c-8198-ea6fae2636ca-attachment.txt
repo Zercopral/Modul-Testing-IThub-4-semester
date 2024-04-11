@@ -1,0 +1,17 @@
+[32mINFO    [0m test_product_screens:conftest.py:52 ===> Test test_product_screens started at 2024-04-12 02:12:44.699963
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 124.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 124.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\vikni\.wdm\drivers\geckodriver\win64\v0.34.0\geckodriver.exe] found in cache
+[32mINFO    [0m test_product_screens:conftest.py:82 Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="c6d575fc-838d-4300-af70-80b0deff1a7c")> started
+[32mINFO    [0m test_product_screens:MainPage.py:35 Click on featured product
+[32mINFO    [0m test_product_screens:ProductPage.py:20 Open screens
+[32mINFO    [0m test_product_screens:ProductPage.py:24 Get screens counter
+[32mINFO    [0m test_product_screens:ProductPage.py:32 Click on 'next screen'
+[32mINFO    [0m test_product_screens:ProductPage.py:32 Click on 'next screen'
+[32mINFO    [0m test_product_screens:ProductPage.py:32 Click on 'next screen'
+[32mINFO    [0m test_product_screens:ProductPage.py:28 Click on 'previous screen'
+[32mINFO    [0m test_product_screens:ProductPage.py:28 Click on 'previous screen'
+[32mINFO    [0m test_product_screens:ProductPage.py:28 Click on 'previous screen'
+[32mINFO    [0m test_product_screens:ProductPage.py:36 Close screens
+[32mINFO    [0m test_product_screens:conftest.py:89 ===> Test test_product_screens finished at 2024-04-12 02:13:00.177567

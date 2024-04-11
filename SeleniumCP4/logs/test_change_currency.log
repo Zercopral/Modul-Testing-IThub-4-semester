@@ -1,0 +1,10 @@
+INFO ===> Test test_change_currency started at 2024-04-12 02:13:04.253239
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="05bd5ad1-d936-4562-81cf-21cc91e98759")> started
+INFO Get current currency
+INFO Open currency list
+INFO Choose new currency
+INFO Get current currency
+INFO Open currency list
+INFO Choose new currency
+INFO Get current currency
+INFO ===> Test test_change_currency finished at 2024-04-12 02:13:17.470903

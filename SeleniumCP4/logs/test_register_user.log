@@ -1,0 +1,6 @@
+INFO ===> Test test_register_user started at 2024-04-12 02:13:38.150961
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="9a2b7ad5-3134-4c3a-8e06-b4ce7fe0f8e0")> started
+INFO Open RegisterPage
+INFO Click 'AGREE'
+INFO Click 'CONTINUE'
+INFO ===> Test test_register_user finished at 2024-04-12 02:13:53.457991

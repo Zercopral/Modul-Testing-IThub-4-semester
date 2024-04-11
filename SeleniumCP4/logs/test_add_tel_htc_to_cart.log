@@ -1,0 +1,9 @@
+INFO ===> Test test_add_tel_htc_to_cart started at 2024-04-12 02:15:48.343830
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="83acb059-f908-4234-8e07-a9b727c9a93d")> started
+INFO Input text on 'SEARCH_FIELD'
+INFO Click 'SEARCH'
+INFO Click on a product
+INFO Click 'ADD TO CART'
+INFO Open CartPage
+INFO Get product name
+INFO ===> Test test_add_tel_htc_to_cart finished at 2024-04-12 02:16:15.547120

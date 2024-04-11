@@ -1,0 +1,13 @@
+[32mINFO    [0m test_add_camera_to_cart:conftest.py:52 ===> Test test_add_camera_to_cart started at 2024-04-12 02:14:50.457668
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 124.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 124.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\vikni\.wdm\drivers\geckodriver\win64\v0.34.0\geckodriver.exe] found in cache
+[32mINFO    [0m test_add_camera_to_cart:conftest.py:82 Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="2adbf07e-054f-4bf2-871b-946fa722e4fe")> started
+[32mINFO    [0m test_add_camera_to_cart:MainPage.py:40 Get featured product name
+[32mINFO    [0m test_add_camera_to_cart:MainPage.py:35 Click on featured product
+[32mINFO    [0m test_add_camera_to_cart:ProductPage.py:49 Chose product color
+[32mINFO    [0m test_add_camera_to_cart:ProductPage.py:52 Click 'ADD TO CART'
+[32mINFO    [0m test_add_camera_to_cart:ProductPage.py:59 Open CartPage
+[32mINFO    [0m test_add_camera_to_cart:CartPage.py:11 Get product name
+[32mINFO    [0m test_add_camera_to_cart:conftest.py:89 ===> Test test_add_camera_to_cart finished at 2024-04-12 02:15:13.315893

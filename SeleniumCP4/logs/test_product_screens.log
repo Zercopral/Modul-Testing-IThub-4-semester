@@ -1,0 +1,13 @@
+INFO ===> Test test_product_screens started at 2024-04-12 02:12:44.699963
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="c6d575fc-838d-4300-af70-80b0deff1a7c")> started
+INFO Click on featured product
+INFO Open screens
+INFO Get screens counter
+INFO Click on 'next screen'
+INFO Click on 'next screen'
+INFO Click on 'next screen'
+INFO Click on 'previous screen'
+INFO Click on 'previous screen'
+INFO Click on 'previous screen'
+INFO Close screens
+INFO ===> Test test_product_screens finished at 2024-04-12 02:13:00.177567

@@ -1,0 +1,9 @@
+INFO ===> Test test_add_table_to_cart started at 2024-04-12 02:15:17.389042
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="8954961f-339d-4529-869e-7addfba8d967")> started
+INFO Input text on 'SEARCH_FIELD'
+INFO Click 'SEARCH'
+INFO Click on a product
+INFO Click 'ADD TO CART'
+INFO Open CartPage
+INFO Get product name
+INFO ===> Test test_add_table_to_cart finished at 2024-04-12 02:15:44.176645
