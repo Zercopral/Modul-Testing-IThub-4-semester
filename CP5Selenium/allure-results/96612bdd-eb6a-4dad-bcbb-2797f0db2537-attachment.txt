@@ -1,0 +1,12 @@
+[32mINFO    [0m test_show_added_products:conftest.py:52 ===> Test test_show_added_products started at 2024-04-18 23:20:56.096936
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 124.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 124.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\vikni\.wdm\drivers\geckodriver\win64\v0.34.0\geckodriver.exe] found in cache
+[32mINFO    [0m test_show_added_products:conftest.py:82 Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="fd374c5f-c7ed-46b9-8d3c-f5ca4d85fc08")> started
+[32mINFO    [0m test_show_added_products:MainPage.py:77 Input text on 'SEARCH_FIELD'
+[32mINFO    [0m test_show_added_products:MainPage.py:79 Click 'SEARCH'
+[32mINFO    [0m test_show_added_products:MainPage.py:77 Input text on 'SEARCH_FIELD'
+[32mINFO    [0m test_show_added_products:MainPage.py:79 Click 'SEARCH'
+[32mINFO    [0m test_show_added_products:MainPage.py:77 Input text on 'SEARCH_FIELD'
+[32mINFO    [0m test_show_added_products:conftest.py:89 ===> Test test_show_added_products finished at 2024-04-18 23:21:16.379042

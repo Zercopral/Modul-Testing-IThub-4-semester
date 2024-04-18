@@ -1,0 +1,14 @@
+[32mINFO    [0m test_admin_delete_product:conftest.py:52 ===> Test test_admin_delete_product started at 2024-04-18 23:54:16.299355
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 124.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 124.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\vikni\.wdm\drivers\geckodriver\win64\v0.34.0\geckodriver.exe] found in cache
+[32mINFO    [0m test_admin_delete_product:conftest.py:82 Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="5c7589ec-3545-4e14-955c-f2bb45f42e2a")> started
+[32mINFO    [0m test_admin_delete_product:AdminPage.py:13 Enter administrator details
+[32mINFO    [0m test_admin_delete_product:AdminPage.py:14 Enter administrator login
+[32mINFO    [0m test_admin_delete_product:AdminPage.py:16 Enter administrator password
+[32mINFO    [0m test_admin_delete_product:AdminPage.py:19 Click on 'Login'
+[32mINFO    [0m test_admin_delete_product:AdminPage.py:35 Click on 'Catalog'
+[32mINFO    [0m test_admin_delete_product:AdminPage.py:114 Click on 'Products'
+[32mINFO    [0m test_admin_delete_product:AdminPage.py:114 Click on 'Products'
+[32mINFO    [0m test_admin_delete_product:conftest.py:89 ===> Test test_admin_delete_product finished at 2024-04-18 23:54:39.872672

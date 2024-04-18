@@ -1,0 +1,17 @@
+[32mINFO    [0m test_admin_add_new_products:conftest.py:52 ===> Test test_admin_add_new_products started at 2024-04-16 12:03:15.751454
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 124.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 124.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\vikni\.wdm\drivers\geckodriver\win64\v0.34.0\geckodriver.exe] found in cache
+[32mINFO    [0m test_admin_add_new_products:conftest.py:82 Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="e4243a84-a78c-4a32-a8b7-9603d773f7dd")> started
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:13 Enter administrator details
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:14 Enter administrator login
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:16 Enter administrator password
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:19 Click on 'Login'
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:78 Click on 'Catalog'
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:81 Click on 'Products'
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:83 Click on 'Add new'
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:86 Enter product name
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:89 Going to description iframe
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:92 Enter product description
+[32mINFO    [0m test_admin_add_new_products:conftest.py:89 ===> Test test_admin_add_new_products finished at 2024-04-16 12:03:33.948700

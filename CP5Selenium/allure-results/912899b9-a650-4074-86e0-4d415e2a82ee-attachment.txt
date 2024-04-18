@@ -1,0 +1,69 @@
+[32mINFO    [0m test_admin_add_new_products:conftest.py:52 ===> Test test_admin_add_new_products started at 2024-04-19 00:02:59.473411
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 124.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 124.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 124.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Getting latest mozilla release info for v0.34.0
+[32mINFO    [0m WDM:logger.py:11 About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.34.0/geckodriver-v0.34.0-win64.zip
+[32mINFO    [0m WDM:logger.py:11 Driver downloading response is 200
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 124.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Driver has been saved in cache [C:\Users\vikni\.wdm\drivers\geckodriver\win64\v0.34.0]
+[32mINFO    [0m test_admin_add_new_products:conftest.py:82 Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="faea6915-08a9-40ce-9411-a46f147275c7")> started
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:13 Enter administrator details
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:14 Enter administrator login
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:16 Enter administrator password
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:19 Click on 'Login'
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:35 Click on 'Catalog'
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:72 Click on 'Products'
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:74 Click on 'Add new'
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:77 Enter product name
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:80 Enter product description
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:83 Enter product meta tag title
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:86 Click on 'Data'
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:88 Enter product model
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:91 Click on 'Links'
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:93 Enter product category
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:96 Click on 'SEO'
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:98 Enter keyword
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:101 Click on 'Save'
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:104 Click on 'Logo'
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:72 Click on 'Products'
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:74 Click on 'Add new'
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:77 Enter product name
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:80 Enter product description
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:83 Enter product meta tag title
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:86 Click on 'Data'
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:88 Enter product model
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:91 Click on 'Links'
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:93 Enter product category
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:96 Click on 'SEO'
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:98 Enter keyword
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:101 Click on 'Save'
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:104 Click on 'Logo'
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:72 Click on 'Products'
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:74 Click on 'Add new'
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:77 Enter product name
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:80 Enter product description
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:83 Enter product meta tag title
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:86 Click on 'Data'
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:88 Enter product model
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:91 Click on 'Links'
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:93 Enter product category
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:96 Click on 'SEO'
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:98 Enter keyword
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:101 Click on 'Save'
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:104 Click on 'Logo'
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:72 Click on 'Products'
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:74 Click on 'Add new'
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:77 Enter product name
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:80 Enter product description
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:83 Enter product meta tag title
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:86 Click on 'Data'
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:88 Enter product model
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:91 Click on 'Links'
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:93 Enter product category
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:96 Click on 'SEO'
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:98 Enter keyword
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:101 Click on 'Save'
+[32mINFO    [0m test_admin_add_new_products:AdminPage.py:104 Click on 'Logo'
+[32mINFO    [0m test_admin_add_new_products:conftest.py:89 ===> Test test_admin_add_new_products finished at 2024-04-19 00:03:51.703017

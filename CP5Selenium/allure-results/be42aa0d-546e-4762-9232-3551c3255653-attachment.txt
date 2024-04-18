@@ -1,0 +1,22 @@
+[32mINFO    [0m test_admin_add_new_category:conftest.py:52 ===> Test test_admin_add_new_category started at 2024-04-16 11:46:33.614632
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 124.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 124.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 124.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Getting latest mozilla release info for v0.34.0
+[32mINFO    [0m WDM:logger.py:11 About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.34.0/geckodriver-v0.34.0-win64.zip
+[32mINFO    [0m WDM:logger.py:11 Driver downloading response is 200
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 124.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Driver has been saved in cache [C:\Users\vikni\.wdm\drivers\geckodriver\win64\v0.34.0]
+[32mINFO    [0m test_admin_add_new_category:conftest.py:82 Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="e6074c86-2fe9-4044-8fe7-632dbb81a26a")> started
+[32mINFO    [0m test_admin_add_new_category:AdminPage.py:13 Enter administrator details
+[32mINFO    [0m test_admin_add_new_category:AdminPage.py:14 Enter administrator login
+[32mINFO    [0m test_admin_add_new_category:AdminPage.py:16 Enter administrator password
+[32mINFO    [0m test_admin_add_new_category:AdminPage.py:19 Click on 'Login'
+[32mINFO    [0m test_admin_add_new_category:AdminPage.py:41 Click on 'Catalog'
+[32mINFO    [0m test_admin_add_new_category:AdminPage.py:44 Click on 'Categories'
+[32mINFO    [0m test_admin_add_new_category:AdminPage.py:46 Click on 'Add new'
+[32mINFO    [0m test_admin_add_new_category:AdminPage.py:49 Enter category name
+[32mINFO    [0m test_admin_add_new_category:AdminPage.py:51 Enter category meta tag title
+[32mINFO    [0m test_admin_add_new_category:AdminPage.py:54 Click on 'SEO'
+[32mINFO    [0m test_admin_add_new_category:conftest.py:89 ===> Test test_admin_add_new_category finished at 2024-04-16 11:47:01.438922

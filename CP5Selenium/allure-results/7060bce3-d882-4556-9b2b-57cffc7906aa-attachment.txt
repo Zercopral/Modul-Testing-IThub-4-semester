@@ -1,0 +1,7 @@
+[32mINFO    [0m test_admin_add_new_category:conftest.py:52 ===> Test test_admin_add_new_category started at 2024-04-16 01:16:48.077249
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 124.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 124.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 124.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Getting latest mozilla release info for v0.34.0
+[32mINFO    [0m WDM:logger.py:11 About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.34.0/geckodriver-v0.34.0-win64.zip
