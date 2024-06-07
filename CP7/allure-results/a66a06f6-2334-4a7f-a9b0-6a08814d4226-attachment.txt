@@ -1,0 +1,19 @@
+[32mINFO    [0m test_product_screens:conftest.py:56 ===> Test test_product_screens started at 2024-06-07 17:21:48.432351
+[32mINFO    [0m test_product_screens:conftest.py:90 Browser <selenium.webdriver.remote.webdriver.WebDriver (session="93652919-fcf0-46c4-8422-7da10f6bb0b4")> started
+[32mINFO    [0m test_product_screens:MainPage.py:35 Click on featured product
+[32mINFO    [0m test_product_screens:ProductPage.py:20 Open screens
+[32mINFO    [0m test_product_screens:ProductPage.py:24 Get screens counter
+[32mINFO    [0m test_product_screens:ProductPage.py:32 Click on 'next screen'
+[32mINFO    [0m test_product_screens:ProductPage.py:32 Click on 'next screen'
+[32mINFO    [0m test_product_screens:ProductPage.py:32 Click on 'next screen'
+[32mINFO    [0m test_product_screens:ProductPage.py:32 Click on 'next screen'
+[32mINFO    [0m test_product_screens:ProductPage.py:32 Click on 'next screen'
+[32mINFO    [0m test_product_screens:ProductPage.py:32 Click on 'next screen'
+[32mINFO    [0m test_product_screens:ProductPage.py:28 Click on 'previous screen'
+[32mINFO    [0m test_product_screens:ProductPage.py:28 Click on 'previous screen'
+[32mINFO    [0m test_product_screens:ProductPage.py:28 Click on 'previous screen'
+[32mINFO    [0m test_product_screens:ProductPage.py:28 Click on 'previous screen'
+[32mINFO    [0m test_product_screens:ProductPage.py:28 Click on 'previous screen'
+[32mINFO    [0m test_product_screens:ProductPage.py:28 Click on 'previous screen'
+[32mINFO    [0m test_product_screens:ProductPage.py:36 Close screens
+[32mINFO    [0m test_product_screens:conftest.py:97 ===> Test test_product_screens finished at 2024-06-07 17:22:00.563497

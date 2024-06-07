@@ -1,0 +1,4 @@
+[32mINFO    [0m test_add_camera_to_cart:conftest.py:56 ===> Test test_add_camera_to_cart started at 2024-06-07 10:45:59.234277
+[32mINFO    [0m test_add_camera_to_cart:conftest.py:90 Browser <selenium.webdriver.remote.webdriver.WebDriver (session="430b1a7e-9455-49ff-985a-b175a12f056a")> started
+[32mINFO    [0m test_add_camera_to_cart:MainPage.py:40 Get featured product name
+[32mINFO    [0m test_add_camera_to_cart:conftest.py:97 ===> Test test_add_camera_to_cart finished at 2024-06-07 10:46:11.036123

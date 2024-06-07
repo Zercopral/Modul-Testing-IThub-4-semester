@@ -1,0 +1,5 @@
+[32mINFO    [0m test_PC_category_empty:conftest.py:56 ===> Test test_PC_category_empty started at 2024-06-08 01:33:48.575130
+[32mINFO    [0m test_PC_category_empty:conftest.py:90 Browser <selenium.webdriver.remote.webdriver.WebDriver (session="32c3e09f-7cf5-4e56-a79a-08c32b18311d")> started
+[32mINFO    [0m test_PC_category_empty:MainPage.py:52 Open menu
+[32mINFO    [0m test_PC_category_empty:MainPage.py:56 Go to products category
+[32mINFO    [0m test_PC_category_empty:conftest.py:97 ===> Test test_PC_category_empty finished at 2024-06-08 01:34:02.749041

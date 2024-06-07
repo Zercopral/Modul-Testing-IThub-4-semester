@@ -1,0 +1,15 @@
+INFO ===> Test test_search started at 2024-06-07 10:20:01.269488
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="d873c7b6-fd89-46ac-98b9-8649c3cb7055")> started
+INFO Input text on 'SEARCH_FIELD'
+INFO ===> Test test_search finished at 2024-06-07 10:20:13.586742
+INFO ===> Test test_search started at 2024-06-07 10:42:29.500272
+INFO ===> Test test_search started at 2024-06-07 10:43:05.774101
+INFO ===> Test test_search started at 2024-06-07 10:45:34.260934
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="388f41d6-aeab-49de-9d03-186374449e7e")> started
+INFO Input text on 'SEARCH_FIELD'
+INFO ===> Test test_search finished at 2024-06-07 10:45:47.235662
+INFO ===> Test test_search started at 2024-06-07 10:51:24.023994
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="d442433d-b800-4705-bf14-18f4010dd52d")> started
+INFO Input text on 'SEARCH_FIELD'
+INFO Click 'SEARCH'
+INFO ===> Test test_search finished at 2024-06-07 10:51:35.130702

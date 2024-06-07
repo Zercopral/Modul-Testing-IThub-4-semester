@@ -1,0 +1,5 @@
+INFO ===> Test test_admin_add_new_products started at 2024-06-07 10:42:30.111770
+INFO ===> Test test_admin_add_new_products started at 2024-06-07 10:43:06.386384
+INFO ===> Test test_admin_add_new_products started at 2024-06-07 10:47:11.430271
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="86343d80-9f61-45f1-9c74-45a99a1aeb8a")> started
+INFO ===> Test test_admin_add_new_products finished at 2024-06-07 10:47:18.930547

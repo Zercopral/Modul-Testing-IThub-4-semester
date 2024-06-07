@@ -1,0 +1,23 @@
+INFO ===> Test test_change_currency started at 2024-06-07 10:10:35.133101
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="e61bb094-6d59-4308-bd08-23c400646123")> started
+INFO Get current currency
+INFO ===> Test test_change_currency finished at 2024-06-07 10:10:51.692424
+INFO ===> Test test_change_currency started at 2024-06-07 10:19:28.742132
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="92083656-813d-4976-925d-ab372afa1912")> started
+INFO Get current currency
+INFO ===> Test test_change_currency finished at 2024-06-07 10:19:39.741772
+INFO ===> Test test_change_currency started at 2024-06-07 10:42:29.256617
+INFO ===> Test test_change_currency started at 2024-06-07 10:43:05.540631
+INFO ===> Test test_change_currency started at 2024-06-07 10:43:58.185611
+INFO ===> Test test_change_currency started at 2024-06-07 10:44:58.823466
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="7ab51707-d689-4d18-9519-02261179ece6")> started
+INFO Get current currency
+INFO ===> Test test_change_currency finished at 2024-06-07 10:45:10.848309
+INFO ===> Test test_change_currency started at 2024-06-07 10:50:45.462643
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="f312dabc-16c8-41b7-aff7-8ce188424f99")> started
+INFO Get current currency
+INFO ===> Test test_change_currency finished at 2024-06-07 10:50:58.469773
+INFO ===> Test test_change_currency started at 2024-06-08 01:20:44.051548
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="79c80b2a-f3d2-4d1b-887a-938de2bd7169")> started
+INFO Get current currency
+INFO ===> Test test_change_currency finished at 2024-06-08 01:21:58.962059

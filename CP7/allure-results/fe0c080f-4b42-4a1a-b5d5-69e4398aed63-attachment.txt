@@ -1,0 +1,4 @@
+[32mINFO    [0m test_add_product_to_wishlist:conftest.py:56 ===> Test test_add_product_to_wishlist started at 2024-06-07 10:20:13.601549
+[32mINFO    [0m test_add_product_to_wishlist:conftest.py:87 Browser <selenium.webdriver.remote.webdriver.WebDriver (session="27536980-abcb-4d91-b225-31f62834dc06")> started
+[32mINFO    [0m test_add_product_to_wishlist:MainPage.py:87 Open LoginPage
+[32mINFO    [0m test_add_product_to_wishlist:conftest.py:94 ===> Test test_add_product_to_wishlist finished at 2024-06-07 10:20:24.979185

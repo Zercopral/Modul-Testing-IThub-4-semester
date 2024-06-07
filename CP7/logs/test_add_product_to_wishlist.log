@@ -1,0 +1,10 @@
+INFO ===> Test test_add_product_to_wishlist started at 2024-06-07 10:20:13.601549
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="27536980-abcb-4d91-b225-31f62834dc06")> started
+INFO Open LoginPage
+INFO ===> Test test_add_product_to_wishlist finished at 2024-06-07 10:20:24.979185
+INFO ===> Test test_add_product_to_wishlist started at 2024-06-07 10:42:29.595032
+INFO ===> Test test_add_product_to_wishlist started at 2024-06-07 10:43:05.852101
+INFO ===> Test test_add_product_to_wishlist started at 2024-06-07 10:45:47.241598
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="e73ce746-f06c-41dc-9495-ae41d219d14a")> started
+INFO Open LoginPage
+INFO ===> Test test_add_product_to_wishlist finished at 2024-06-07 10:45:59.227193

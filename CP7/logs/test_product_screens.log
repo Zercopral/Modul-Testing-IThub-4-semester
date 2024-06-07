@@ -1,0 +1,112 @@
+INFO ===> Test test_product_screens started at 2024-06-07 10:10:10.897440
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="5f73f77a-43db-44ab-9e89-50e0913744cd")> started
+INFO Click on featured product
+INFO ===> Test test_product_screens finished at 2024-06-07 10:10:35.113488
+INFO ===> Test test_product_screens started at 2024-06-07 10:19:15.850999
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="4d242858-5ece-4c35-8048-24203d74aa67")> started
+INFO Click on featured product
+INFO ===> Test test_product_screens finished at 2024-06-07 10:19:28.732325
+INFO ===> Test test_product_screens started at 2024-06-07 10:42:28.980014
+INFO ===> Test test_product_screens started at 2024-06-07 10:43:05.274410
+INFO ===> Test test_product_screens started at 2024-06-07 10:43:47.250154
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="c7addbee-f1ce-4a6a-9bfb-723a07f6b438")> started
+INFO Click on featured product
+INFO ===> Test test_product_screens finished at 2024-06-07 10:43:58.178944
+INFO ===> Test test_product_screens started at 2024-06-07 10:44:47.315376
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="c1eb4892-0193-42c7-bb1b-aa923e9c7e0e")> started
+INFO Click on featured product
+INFO ===> Test test_product_screens finished at 2024-06-07 10:44:58.802960
+INFO ===> Test test_product_screens started at 2024-06-07 10:50:38.178746
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="61b0545d-bcf0-4d5b-84c7-39fbdf200c03")> started
+INFO Click on featured product
+INFO ===> Test test_product_screens finished at 2024-06-07 10:50:45.454972
+INFO ===> Test test_product_screens started at 2024-06-07 10:52:48.050099
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="78735869-c024-4f56-9f14-b8a91e22a49b")> started
+INFO Click on featured product
+INFO ===> Test test_product_screens finished at 2024-06-07 10:52:55.199918
+INFO ===> Test test_product_screens started at 2024-06-07 15:00:03.375092
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="20fd7f2b-d993-45da-ae3a-a4c7c41efa6b")> started
+INFO Click on featured product
+INFO Open screens
+INFO ===> Test test_product_screens finished at 2024-06-07 15:00:17.743397
+INFO ===> Test test_product_screens started at 2024-06-07 15:01:06.424927
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="6b014089-25b6-4a80-a139-7a1fd3f5f485")> started
+INFO Click on featured product
+INFO Open screens
+INFO ===> Test test_product_screens finished at 2024-06-07 15:01:20.094882
+INFO ===> Test test_product_screens started at 2024-06-07 15:02:30.094613
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="bc4bc5d0-5164-493c-b1c3-cf0ef7dbae22")> started
+INFO Click on featured product
+INFO Open screens
+INFO ===> Test test_product_screens finished at 2024-06-07 15:02:43.535552
+INFO ===> Test test_product_screens started at 2024-06-07 15:03:00.450172
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="894e9374-0138-44f3-bf46-2084233295f5")> started
+INFO Click on featured product
+INFO Open screens
+INFO ===> Test test_product_screens finished at 2024-06-07 15:03:13.890660
+INFO ===> Test test_product_screens started at 2024-06-07 17:14:33.414346
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="dd6be665-f2c9-48cc-8224-c48bc8ba41b9")> started
+INFO Click on featured product
+INFO ===> Test test_product_screens finished at 2024-06-07 17:14:41.910454
+INFO ===> Test test_product_screens started at 2024-06-07 17:19:03.938897
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="c9ac7994-478a-4ee9-8a66-341d79cabae4")> started
+INFO Click on featured product
+INFO Open screens
+INFO ===> Test test_product_screens finished at 2024-06-07 17:19:17.844284
+INFO ===> Test test_product_screens started at 2024-06-07 17:21:48.432351
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="93652919-fcf0-46c4-8422-7da10f6bb0b4")> started
+INFO Click on featured product
+INFO Open screens
+INFO Get screens counter
+INFO Click on 'next screen'
+INFO Click on 'next screen'
+INFO Click on 'next screen'
+INFO Click on 'next screen'
+INFO Click on 'next screen'
+INFO Click on 'next screen'
+INFO Click on 'previous screen'
+INFO Click on 'previous screen'
+INFO Click on 'previous screen'
+INFO Click on 'previous screen'
+INFO Click on 'previous screen'
+INFO Click on 'previous screen'
+INFO Close screens
+INFO ===> Test test_product_screens finished at 2024-06-07 17:22:00.563497
+INFO ===> Test test_product_screens started at 2024-06-07 17:22:35.142545
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="009ed157-5909-4113-8cb3-04fc59fc5331")> started
+INFO Click on featured product
+INFO Open screens
+INFO Get screens counter
+INFO Click on 'next screen'
+INFO Click on 'next screen'
+INFO Click on 'next screen'
+INFO Click on 'next screen'
+INFO Click on 'next screen'
+INFO Click on 'next screen'
+INFO Click on 'previous screen'
+INFO Click on 'previous screen'
+INFO Click on 'previous screen'
+INFO Click on 'previous screen'
+INFO Click on 'previous screen'
+INFO Click on 'previous screen'
+INFO Close screens
+INFO ===> Test test_product_screens finished at 2024-06-07 17:22:48.824610
+INFO ===> Test test_product_screens started at 2024-06-08 01:46:33.258353
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="4338abbd-f14f-4dd2-b819-f9fe02e71f06")> started
+INFO Click on featured product
+INFO Open screens
+INFO Get screens counter
+INFO Click on 'next screen'
+INFO Click on 'next screen'
+INFO Click on 'next screen'
+INFO Click on 'next screen'
+INFO Click on 'next screen'
+INFO Click on 'next screen'
+INFO Click on 'previous screen'
+INFO Click on 'previous screen'
+INFO Click on 'previous screen'
+INFO Click on 'previous screen'
+INFO Click on 'previous screen'
+INFO Click on 'previous screen'
+INFO Close screens
+INFO ===> Test test_product_screens finished at 2024-06-08 01:46:47.149078

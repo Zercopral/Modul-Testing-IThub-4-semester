@@ -1,0 +1,1 @@
+[32mINFO    [0m test_add_tel_htc_to_cart:conftest.py:56 ===> Test test_add_tel_htc_to_cart started at 2024-06-07 10:42:29.853894

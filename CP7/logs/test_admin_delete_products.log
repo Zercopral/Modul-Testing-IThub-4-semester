@@ -1,0 +1,5 @@
+INFO ===> Test test_admin_delete_products started at 2024-06-07 10:42:30.286494
+INFO ===> Test test_admin_delete_products started at 2024-06-07 10:43:06.550016
+INFO ===> Test test_admin_delete_products started at 2024-06-07 10:47:37.214664
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="a1343f61-0a07-43e6-8362-405a6cf96ef6")> started
+INFO ===> Test test_admin_delete_products finished at 2024-06-07 10:47:44.260650

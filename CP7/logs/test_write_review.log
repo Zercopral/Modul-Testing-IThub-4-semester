@@ -1,0 +1,7 @@
+INFO ===> Test test_write_review started at 2024-06-07 10:21:16.302181
+INFO ===> Test test_write_review started at 2024-06-07 10:42:29.944092
+INFO ===> Test test_write_review started at 2024-06-07 10:43:06.219772
+INFO ===> Test test_write_review started at 2024-06-07 10:46:51.691677
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="29b4d61b-e971-4940-8d81-2d72a714320e")> started
+INFO Open LoginPage
+INFO ===> Test test_write_review finished at 2024-06-07 10:47:04.067522

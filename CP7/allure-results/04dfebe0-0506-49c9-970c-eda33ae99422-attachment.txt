@@ -1,0 +1,4 @@
+[32mINFO    [0m test_change_currency:conftest.py:56 ===> Test test_change_currency started at 2024-06-07 10:19:28.742132
+[32mINFO    [0m test_change_currency:conftest.py:87 Browser <selenium.webdriver.remote.webdriver.WebDriver (session="92083656-813d-4976-925d-ab372afa1912")> started
+[32mINFO    [0m test_change_currency:MainPage.py:21 Get current currency
+[32mINFO    [0m test_change_currency:conftest.py:94 ===> Test test_change_currency finished at 2024-06-07 10:19:39.741772

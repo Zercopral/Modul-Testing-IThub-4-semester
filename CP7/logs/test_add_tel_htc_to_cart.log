@@ -1,0 +1,12 @@
+INFO ===> Test test_add_tel_htc_to_cart started at 2024-06-07 10:20:56.157350
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="64d2401d-9684-44a0-90ff-2eaf3cbd8361")> started
+INFO Input text on 'SEARCH_FIELD'
+INFO Click on a product
+INFO ===> Test test_add_tel_htc_to_cart finished at 2024-06-07 10:21:16.294081
+INFO ===> Test test_add_tel_htc_to_cart started at 2024-06-07 10:42:29.853894
+INFO ===> Test test_add_tel_htc_to_cart started at 2024-06-07 10:43:06.113987
+INFO ===> Test test_add_tel_htc_to_cart started at 2024-06-07 10:46:31.837763
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="061ae15f-afba-429c-8744-fe6c9150adc3")> started
+INFO Input text on 'SEARCH_FIELD'
+INFO Click on a product
+INFO ===> Test test_add_tel_htc_to_cart finished at 2024-06-07 10:46:51.684558

@@ -1,0 +1,5 @@
+INFO ===> Test test_admin_add_new_category started at 2024-06-07 10:42:30.024768
+INFO ===> Test test_admin_add_new_category started at 2024-06-07 10:43:06.305766
+INFO ===> Test test_admin_add_new_category started at 2024-06-07 10:47:04.074035
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="48731470-affd-4e0a-9824-af1dd36f8218")> started
+INFO ===> Test test_admin_add_new_category finished at 2024-06-07 10:47:11.422617

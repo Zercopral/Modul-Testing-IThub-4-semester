@@ -1,0 +1,1 @@
+[32mINFO    [0m test_deleted_products:conftest.py:56 ===> Test test_deleted_products started at 2024-06-07 10:43:06.631017

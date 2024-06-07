@@ -1,0 +1,44 @@
+INFO ===> Test test_PC_category_empty started at 2024-06-07 10:10:51.714422
+INFO ===> Test test_PC_category_empty started at 2024-06-07 10:19:39.749147
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="1ad5b749-ae1e-4d16-83c1-8fef884c1514")> started
+INFO Open menu
+INFO ===> Test test_PC_category_empty finished at 2024-06-07 10:19:50.427176
+INFO ===> Test test_PC_category_empty started at 2024-06-07 10:42:29.336618
+INFO ===> Test test_PC_category_empty started at 2024-06-07 10:43:05.618631
+INFO ===> Test test_PC_category_empty started at 2024-06-07 10:45:10.873441
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="c3646dee-6553-4109-9da5-8768943880b7")> started
+INFO Open menu
+INFO ===> Test test_PC_category_empty finished at 2024-06-07 10:45:22.429018
+INFO ===> Test test_PC_category_empty started at 2024-06-07 10:50:58.475279
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="9794f822-f25e-4685-9353-527a64136358")> started
+INFO Open menu
+INFO ===> Test test_PC_category_empty finished at 2024-06-07 10:51:11.304973
+INFO ===> Test test_PC_category_empty started at 2024-06-08 01:23:49.381571
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="2aed27dd-317c-4666-aee2-893c83f9216d")> started
+INFO Open menu
+INFO ===> Test test_PC_category_empty finished at 2024-06-08 01:24:03.632062
+INFO ===> Test test_PC_category_empty started at 2024-06-08 01:29:54.376656
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="6aeec79b-3074-4e92-82e6-aae883781b94")> started
+INFO Open menu
+INFO Go to products category
+INFO ===> Test test_PC_category_empty finished at 2024-06-08 01:30:09.290428
+INFO ===> Test test_PC_category_empty started at 2024-06-08 01:31:11.519442
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="736b38a0-7121-44bc-b02a-bb9cfabe8b4e")> started
+INFO Open menu
+INFO Go to products category
+INFO ===> Test test_PC_category_empty finished at 2024-06-08 01:31:32.188400
+INFO ===> Test test_PC_category_empty started at 2024-06-08 01:33:48.575130
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="32c3e09f-7cf5-4e56-a79a-08c32b18311d")> started
+INFO Open menu
+INFO Go to products category
+INFO ===> Test test_PC_category_empty finished at 2024-06-08 01:34:02.749041
+INFO ===> Test test_PC_category_empty started at 2024-06-08 01:43:43.853285
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="f52f8963-1635-4b07-b3d0-5f2076e88237")> started
+INFO Open menu
+INFO Go to products category
+INFO ===> Test test_PC_category_empty finished at 2024-06-08 01:43:59.096778
+INFO ===> Test test_PC_category_empty started at 2024-06-08 01:44:58.241464
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="2cb151c2-b5e8-4307-ae93-4b793525f299")> started
+INFO Open menu
+INFO Go to products category
+INFO ===> Test test_PC_category_empty finished at 2024-06-08 01:45:12.742414

@@ -1,0 +1,4 @@
+[32mINFO    [0m test_register_user:conftest.py:56 ===> Test test_register_user started at 2024-06-07 10:45:22.436847
+[32mINFO    [0m test_register_user:conftest.py:90 Browser <selenium.webdriver.remote.webdriver.WebDriver (session="8a844695-4479-4280-9cf1-2c660ed7bc0a")> started
+[32mINFO    [0m test_register_user:MainPage.py:65 Open RegisterPage
+[32mINFO    [0m test_register_user:conftest.py:97 ===> Test test_register_user finished at 2024-06-07 10:45:34.253255

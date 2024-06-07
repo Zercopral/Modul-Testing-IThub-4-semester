@@ -1,0 +1,1 @@
+[32mINFO    [0m test_change_currency:conftest.py:56 ===> Test test_change_currency started at 2024-06-07 10:43:05.540631

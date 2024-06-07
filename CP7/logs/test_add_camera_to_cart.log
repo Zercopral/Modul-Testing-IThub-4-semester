@@ -1,0 +1,10 @@
+INFO ===> Test test_add_camera_to_cart started at 2024-06-07 10:20:24.986406
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="12ad2f67-b07b-489b-b8dc-c8a1790aefef")> started
+INFO Get featured product name
+INFO ===> Test test_add_camera_to_cart finished at 2024-06-07 10:20:36.109218
+INFO ===> Test test_add_camera_to_cart started at 2024-06-07 10:42:29.690594
+INFO ===> Test test_add_camera_to_cart started at 2024-06-07 10:43:05.952185
+INFO ===> Test test_add_camera_to_cart started at 2024-06-07 10:45:59.234277
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="430b1a7e-9455-49ff-985a-b175a12f056a")> started
+INFO Get featured product name
+INFO ===> Test test_add_camera_to_cart finished at 2024-06-07 10:46:11.036123

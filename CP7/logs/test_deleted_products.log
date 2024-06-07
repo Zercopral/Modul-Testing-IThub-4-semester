@@ -1,0 +1,7 @@
+INFO ===> Test test_deleted_products started at 2024-06-07 10:42:30.366088
+INFO ===> Test test_deleted_products started at 2024-06-07 10:43:06.631017
+INFO ===> Test test_deleted_products started at 2024-06-07 10:47:44.301128
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="2b2e083b-129c-44f3-92f7-fb3d7ab94aed")> started
+INFO Input text on 'SEARCH_FIELD'
+INFO Get search result
+INFO ===> Test test_deleted_products finished at 2024-06-07 10:48:02.694832

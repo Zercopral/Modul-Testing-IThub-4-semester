@@ -1,0 +1,3 @@
+[32mINFO    [0m test_admin_add_new_category:conftest.py:56 ===> Test test_admin_add_new_category started at 2024-06-07 10:47:04.074035
+[32mINFO    [0m test_admin_add_new_category:conftest.py:90 Browser <selenium.webdriver.remote.webdriver.WebDriver (session="48731470-affd-4e0a-9824-af1dd36f8218")> started
+[32mINFO    [0m test_admin_add_new_category:conftest.py:97 ===> Test test_admin_add_new_category finished at 2024-06-07 10:47:11.422617

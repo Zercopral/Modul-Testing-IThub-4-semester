@@ -1,0 +1,1 @@
+[32mINFO    [0m test_admin_add_new_products:conftest.py:56 ===> Test test_admin_add_new_products started at 2024-06-07 10:42:30.111770

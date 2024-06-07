@@ -1,0 +1,1 @@
+[32mINFO    [0m test_product_screens:conftest.py:56 ===> Test test_product_screens started at 2024-06-07 10:42:28.980014

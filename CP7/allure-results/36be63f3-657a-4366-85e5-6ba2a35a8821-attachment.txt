@@ -1,0 +1,5 @@
+[32mINFO    [0m test_add_table_to_cart:conftest.py:56 ===> Test test_add_table_to_cart started at 2024-06-07 10:20:36.115744
+[32mINFO    [0m test_add_table_to_cart:conftest.py:87 Browser <selenium.webdriver.remote.webdriver.WebDriver (session="9f72d0b6-4d91-4a3b-8d3a-716964ef809b")> started
+[32mINFO    [0m test_add_table_to_cart:MainPage.py:77 Input text on 'SEARCH_FIELD'
+[32mINFO    [0m test_add_table_to_cart:SearchPage.py:11 Click on a product
+[32mINFO    [0m test_add_table_to_cart:conftest.py:94 ===> Test test_add_table_to_cart finished at 2024-06-07 10:20:56.149544

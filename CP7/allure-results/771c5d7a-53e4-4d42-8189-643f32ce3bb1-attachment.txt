@@ -1,0 +1,5 @@
+[32mINFO    [0m test_add_tel_htc_to_cart:conftest.py:56 ===> Test test_add_tel_htc_to_cart started at 2024-06-07 10:20:56.157350
+[32mINFO    [0m test_add_tel_htc_to_cart:conftest.py:87 Browser <selenium.webdriver.remote.webdriver.WebDriver (session="64d2401d-9684-44a0-90ff-2eaf3cbd8361")> started
+[32mINFO    [0m test_add_tel_htc_to_cart:MainPage.py:77 Input text on 'SEARCH_FIELD'
+[32mINFO    [0m test_add_tel_htc_to_cart:SearchPage.py:11 Click on a product
+[32mINFO    [0m test_add_tel_htc_to_cart:conftest.py:94 ===> Test test_add_tel_htc_to_cart finished at 2024-06-07 10:21:16.294081

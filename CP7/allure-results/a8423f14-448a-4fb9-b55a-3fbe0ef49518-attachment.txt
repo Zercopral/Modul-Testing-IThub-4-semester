@@ -1,0 +1,13 @@
+[32mINFO    [0m test_product_screens:conftest.py:52 ===> Test test_product_screens started at 2024-06-07 10:10:10.897440
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 124.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 124.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 124.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Getting latest mozilla release info for v0.34.0
+[32mINFO    [0m WDM:logger.py:11 About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.34.0/geckodriver-v0.34.0-win64.zip
+[32mINFO    [0m WDM:logger.py:11 Driver downloading response is 200
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 124.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Driver has been saved in cache [C:\Users\vikni\.wdm\drivers\geckodriver\win64\v0.34.0]
+[32mINFO    [0m test_product_screens:conftest.py:82 Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="5f73f77a-43db-44ab-9e89-50e0913744cd")> started
+[32mINFO    [0m test_product_screens:MainPage.py:35 Click on featured product
+[32mINFO    [0m test_product_screens:conftest.py:89 ===> Test test_product_screens finished at 2024-06-07 10:10:35.113488

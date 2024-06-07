@@ -1,0 +1,12 @@
+INFO ===> Test test_add_table_to_cart started at 2024-06-07 10:20:36.115744
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="9f72d0b6-4d91-4a3b-8d3a-716964ef809b")> started
+INFO Input text on 'SEARCH_FIELD'
+INFO Click on a product
+INFO ===> Test test_add_table_to_cart finished at 2024-06-07 10:20:56.149544
+INFO ===> Test test_add_table_to_cart started at 2024-06-07 10:42:29.771895
+INFO ===> Test test_add_table_to_cart started at 2024-06-07 10:43:06.031183
+INFO ===> Test test_add_table_to_cart started at 2024-06-07 10:46:11.043286
+INFO Browser <selenium.webdriver.remote.webdriver.WebDriver (session="d76d6e73-2bcc-46b0-b3ef-2fb214916365")> started
+INFO Input text on 'SEARCH_FIELD'
+INFO Click on a product
+INFO ===> Test test_add_table_to_cart finished at 2024-06-07 10:46:31.831577
